@@ -36,14 +36,14 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository:**
 
-    ```sh
+    ```bash
     git clone https://github.com/your-username/realtime-chat-app.git
     cd realtime-chat-app
     ```
 
 2. **Install Go dependencies:**
 
-    ```sh
+    ```bash
     go mod download
     ```
 
@@ -61,13 +61,13 @@ You can modify the values according to your environment.
 1.Start the Go server:
 
 
-    ```sh
+    ```bash
     go run main.go
     
      ```
 2.Open your browser and navigate to:
 
-    ```sh
+    ```bash
     http://localhost:3000
      ```
 ## Usage
