@@ -58,14 +58,12 @@ You can modify the values according to your environment.
 
 ## Running the Application
 
-1.Start the Go server:
-
+1. **Start the Go server:**
 
     ```bash
     go run main.go
-    
      ```
-2.Open your browser and navigate to:
+2. **Open your browser and navigate to:**
 
     ```bash
     http://localhost:3000
